@@ -1,4 +1,7 @@
 All answers are very very easy to find
+<<<<<<< HEAD
 All answers are easy to find
 All answers are not easy to find
 All answers are hard to find
+=======
+>>>>>>> parent of 5751d8a (Question4)
